@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=&animation=fadeIn" width="100%"/>
 
 <!-- Glitch-style name -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=42&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%3E+Initializing...;%3E+Loading+Profile...;%3E+Hello%2C+I'm+YOUR_NAME" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=42&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%3E+Initializing...;%3E+Loading+Profile...;%3E+Hello%2C+I'm+Quantlite" alt="Typing SVG" />
 
 <br/>
 
@@ -15,8 +15,8 @@
 
 <!-- Shields row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-quantlite-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quantlite)
-[![GitHub followers](https://img.shields.io/github/followers/Quantlite?style=for-the-badge&logo=github&color=00ffff&labelColor=0d1117)](https://github.com/Quantlite)
-[![Profile Views](https://komarev.com/ghpvc/?username=Quantlite&style=for-the-badge&color=BD00FF&label=NEURAL+PINGS)](https://github.com/Quantlite)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00ffff&labelColor=0d1117)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=BD00FF&label=NEURAL+PINGS)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -95,16 +95,6 @@ me = Engineer()
 
 </div>
 
-### ☁️ Cloud & MLOps
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
 
 ---
 
@@ -117,14 +107,14 @@ me = Engineer()
 <!-- GitHub stats in a terminal-style block -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quantlite&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=bd00ff&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=bd00ff&text_color=ffffff&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantlite&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&langs_count=8"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantlite&theme=black-ice&hide_border=true&background=0d0d0d&ring=00ffff&fire=BD00FF&currStreakLabel=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice&hide_border=true&background=0d0d0d&ring=00ffff&fire=BD00FF&currStreakLabel=ffffff" />
 </div>
 
 ---
@@ -175,9 +165,9 @@ me = Engineer()
 ## `> watch contribution_grid`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
