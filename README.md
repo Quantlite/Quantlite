@@ -9,14 +9,14 @@
 <br/>
 
 <!-- Animated subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=4000&pause=500&color=BD00FF&center=true&vCenter=true&width=700&lines=🤖+Robotics+Engineer+%7C+🧠+ML+Researcher;Building+Intelligent+Machines+that+Perceive+%26+Act;Neural+Networks+%2B+Robot+Kinematics+%3D+🔥" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=4000&pause=500&color=BD00FF&center=true&vCenter=true&width=700&lines=Robotics+Engineer+%7C+ML+Researcher;Building+Intelligent+Machines+that+Perceive+%26+Act;Neural+Networks+%2B+Robot+Kinematics+%3D+%F0%9F%94%A5" alt="Subtitle" />
 
 <br/><br/>
 
 <!-- Shields row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-quantlite-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quantlite)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00ffff&labelColor=0d1117)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=BD00FF&label=NEURAL+PINGS)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Quantlite?style=for-the-badge&logo=github&color=00ffff&labelColor=0d1117)](https://github.com/Quantlite)
+[![Profile Views](https://komarev.com/ghpvc/?username=Quantlite&style=for-the-badge&color=BD00FF&label=NEURAL+PINGS)](https://github.com/Quantlite)
 
 </div>
 
@@ -107,14 +107,14 @@ me = Engineer()
 <!-- GitHub stats in a terminal-style block -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=bd00ff&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quantlite&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=bd00ff&text_color=ffffff&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantlite&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&langs_count=8"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice&hide_border=true&background=0d0d0d&ring=00ffff&fire=BD00FF&currStreakLabel=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantlite&theme=black-ice&hide_border=true&background=0d0d0d&ring=00ffff&fire=BD00FF&currStreakLabel=ffffff" />
 </div>
 
 ---
@@ -165,9 +165,9 @@ me = Engineer()
 ## `> watch contribution_grid`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
