@@ -44,9 +44,9 @@
 ```python
 class Engineer:
     def __init__(self):
-        self.name        = "YOUR NAME"
+        self.name        = "RITHISH"
         self.alias       = "quantlite"
-        self.location    = "India 🇮🇳"
+        self.location    = "India"
         self.domains     = ["Machine Learning", "Robotics", "Autonomous Systems"]
         self.mindset     = "Build machines that think. Build thoughts that move."
 
