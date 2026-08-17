@@ -1,175 +1,157 @@
 <div align="center">
 
-<!-- Neural grid header animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=&animation=fadeIn" width="100%"/>
+# RITHISH K
+### Machine Learning &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Robotics (ROS 2)
 
-<!-- Glitch-style name -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=42&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%3E+Initializing...;%3E+Loading+Profile...;%3E+Hello%2C+I'm+Quantlite" alt="Typing SVG" />
+*Teaching machines to see, reason, and act.*
+
+</div>
 
 <br/>
 
-<!-- Animated subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=4000&pause=500&color=BD00FF&center=true&vCenter=true&width=700&lines=Robotics+Engineer+%7C+ML+Researcher;Building+Intelligent+Machines+that+Perceive+%26+Act;Neural+Networks+%2B+Robot+Kinematics+%3D+%F0%9F%94%A5" alt="Subtitle" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Quantlite/Quantlite/main/assets/pipeline-banner.svg" alt="Perception to Intelligence to Decision to Action pipeline" width="100%"/>
+</div>
+
+<br/>
+
+I'm a Computer Science undergraduate who builds systems that connect a camera or a sensor to a physical outcome — a robot that navigates, an arm that grasps, a model that flags what a human eye would miss. Most of my work sits at the point where perception meets control: `sensor → model → decision → motion`.
+
+<br/>
+
+## How I work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Perceive**
+<br/>
+Computer vision and sensing — turning raw pixels and point clouds into something a system can act on.
+
+</td>
+<td width="33%" valign="top">
+
+**Reason**
+<br/>
+Machine learning and deep learning — models that classify, detect, and estimate under real-world noise.
+
+</td>
+<td width="33%" valign="top">
+
+**Act**
+<br/>
+ROS 2, robotics, and control — closing the loop between a decision and physical motion.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Quantlite&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=94a3b8&text_color=cbd5e1&icon_color=5eead4" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantlite&layout=compact&hide_border=true&bg_color=00000000&title_color=94a3b8&text_color=cbd5e1" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Quantlite&hide_border=true&background=00000000&stroke=30363d&ring=5eead4&fire=5eead4&currStreakLabel=cbd5e1&sideLabels=94a3b8&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="GitHub streak"/>
 
 <br/><br/>
 
-<!-- Shields row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-quantlite-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quantlite)
-[![GitHub followers](https://img.shields.io/github/followers/Quantlite?style=for-the-badge&logo=github&color=00ffff&labelColor=0d1117)](https://github.com/Quantlite)
-[![Profile Views](https://komarev.com/ghpvc/?username=Quantlite&style=for-the-badge&color=BD00FF&label=NEURAL+PINGS)](https://github.com/Quantlite)
-
-</div>
-
----
-
-<!-- ASCII robot art -->
-```
-    ██████╗  ██████╗ ██████╗  ██████╗ ████████╗██╗ ██████╗███████╗
-    ██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝██║██╔════╝██╔════╝
-    ██████╔╝██║   ██║██████╔╝██║   ██║   ██║   ██║██║     ███████╗
-    ██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║   ██║██║     ╚════██║
-    ██║  ██║╚██████╔╝██████╔╝╚██████╔╝   ██║   ██║╚██████╗███████║
-    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝   ╚═╝   ╚═╝ ╚═════╝╚══════╝
-                        [ SYSTEM ONLINE ] 🟢
-```
-
----
-
-<div align="center">
-
-## `> whoami`
-
-</div>
-
-```python
-class Engineer:
-    def __init__(self):
-        self.name        = "RITHISH"
-        self.alias       = "quantlite"
-        self.location    = "India"
-        self.domains     = ["Machine Learning", "Robotics", "Autonomous Systems"]
-        self.mindset     = "Build machines that think. Build thoughts that move."
-
-    def current_mission(self):
-        return [
-            "🤖 Training robots to perceive & navigate the physical world",
-            "🧠 Designing neural architectures for real-time inference",
-            "📡 Bridging the gap between simulation and real hardware",
-            "🔬 Researching reinforcement learning for robotic control",
-        ]
-
-    def fun_fact(self):
-        return "I debug robots the same way I debug code — with logs and existential dread."
-
-me = Engineer()
-```
-
----
-
-<div align="center">
-
-## `> tech_stack --list`
-
-</div>
-
-### 🧠 Machine Learning & AI
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</div>
-
-### 🤖 Robotics & Embedded
-<div align="center">
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-</div>
-
-
----
-
-<div align="center">
-
-## `> git log --oneline --graph`
-
-</div>
-
-<!-- GitHub stats in a terminal-style block -->
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quantlite&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=bd00ff&text_color=ffffff&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantlite&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&langs_count=8"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantlite&theme=black-ice&hide_border=true&background=0d0d0d&ring=00ffff&fire=BD00FF&currStreakLabel=ffffff" />
-</div>
-
----
-
-<div align="center">
-
-## `> cat /proc/current_projects`
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  PROJECT LOG — ACTIVE MISSIONS                                  │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  🤖  [ACTIVE]   Autonomous Navigation using RL + LiDAR         │
-│  🧠  [ACTIVE]   Custom Transformer for Time-Series Forecasting  │
-│  🦾  [ACTIVE]   Robotic Arm Control via Imitation Learning      │
-│  📷  [IDLE]     Real-time Pose Estimation on Edge Devices       │
-│  🗺️  [PLANNED]  SLAM-based Indoor Mapping Robot                 │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-## `> ping connections`
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quantlite)
-
-<br/>
-
-*"The best way to predict the future is to build the robots that create it."*
-
-</div>
-
----
-
-<!-- Contribution snake -->
-<div align="center">
-
-## `> watch contribution_grid`
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Quantlite/Quantlite/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+*All numbers above are pulled live from my GitHub account — nothing here is hardcoded.*
+
+<br/>
+
+## Featured work
+
+**Semi-Autonomous Underwater Rover** — *Inspection & salvage*
+Built a ROS-based underwater rover for remote inspection, with a real-time control loop and an onboard model for human detection in low-visibility underwater footage.
+`Problem:` manual underwater inspection is slow and risky for divers → `Engineering:` real-time control + onboard human-detection model + remote monitoring link → `Tech:` Python, ROS, OpenCV → `Result:` funded with **₹5,00,000** by NASSCOM Foundation & Cisco.
+`Repository:` *private — available on request*
+
+---
+
+**Autonomous Mapping — TurtleBot3 Burger (ROS 2)** — *IIT Bombay*
+Autonomous navigation stack combining SLAM and multi-sensor fusion for a differential-drive robot mapping unknown environments.
+`Problem:` build a map and navigate it without prior knowledge of the space → `Engineering:` SLAM + sensor fusion + path planning → `Tech:` ROS 2, Gazebo, SLAM → `Result:` **~25%** improvement in mapping accuracy, **~30%** reduction in navigation errors (simulation).
+`Repository:` *private — available on request*
+
+---
+
+**Microplastic Detection System** — [`microplastic_dect`](https://github.com/Quantlite/microplastic_dect)
+Real-time computer vision pipeline for detecting microplastic particles in water samples.
+`Problem:` manual microplastic identification doesn't scale → `Engineering:` real-time detection pipeline trained and tuned for small, low-contrast particles → `Tech:` YOLOv8, OpenCV → `Result:` **93–96%** accuracy, winner of a national-level competition (**₹25,000**).
+
+---
+
+**Real-Time AI Face Recognition Surveillance**
+Multi-face detection and recognition system processing live RTSP CCTV streams.
+`Problem:` surveillance footage needs recognition faster than a human can review it → `Engineering:` frame buffering + multithreaded inference + vector similarity matching for identity lookup → `Tech:` Flask, OpenCV, InsightFace, SQLite → `Result:` low-latency recognition with dynamic face registration and age/gender prediction.
+`Repository:` *private — available on request*
+
+<br/>
+
+## Currently on the bench
+
+- Point-cloud processing for pallet detection & isolation from depth-camera data — feeding an automated forklift pickup system
+- Sensor-fusion and navigation tuning on ROS 2 mobile platforms
+- Self-supervised audio retrieval — [`EchoFind-Impulse2026`](https://github.com/Quantlite/EchoFind-Impulse2026), built for IEEE Impulse 2026
+- Reading up on efficient inference for edge deployment of vision models
+
+<br/>
+
+## Tech stack
+
+**Intelligence** — PyTorch · TensorFlow · Scikit-learn · CNNs · RNNs
+**Vision** — OpenCV · YOLO · Image Processing
+**Robotics** — ROS 2 · Gazebo · SLAM · Path Planning
+**Engineering** — Python · Git · Linux (Ubuntu) · VS Code
+**Data** — NumPy · Pandas · Matplotlib
+
+<br/>
+
+## Experience
+
+**R&D Intern — GOAT Robotics** &nbsp;·&nbsp; Coimbatore, India &nbsp;·&nbsp; Jun 2026 – present
+Building a point-cloud processing pipeline to detect and isolate a target pallet from depth-camera data, supporting an automated forklift mechanism for accurate pallet pickup.
+
+<br/>
+
+## Achievements
+
+- 🏆 Winner — SCIMIT 2026 (MVIT 2026) — AI-based microplastic analysis, 93–96% accuracy — ₹25,000
+- 🏆 Winner — 36-Hour National Hackathon, KIT 2025 — ML prototype for environmental classification, 90%+ accuracy — ₹25,000
+- 🏆 Winner — IIT PALS Turbotech Build 2024 — CNN-based rice classification, 94% accuracy → [`Rice-Classification`](https://github.com/Quantlite/Rice-Classification)
+- 🎯 Finalist — India Innovates 2026 — presented AI-based microplastic detection to central government officials
+- 💰 ₹5,00,000 — NASSCOM Foundation & Cisco funding for the underwater rover project
+- 🎓 e-Yantra ROS 2 Certified Participant — IIT Bombay (2025)
+
+<br/>
+
+## Education
+
+**B.E., Computer Science & Engineering** — KIT (Kalaignar Karunanidhi Institute of Technology), Coimbatore, India — 2024 – Present
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Quantlite-0d1117?style=for-the-badge&logo=github&logoColor=5eead4)](https://github.com/Quantlite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-quantlite-0d1117?style=for-the-badge&logo=linkedin&logoColor=5eead4)](https://linkedin.com/in/quantlite)
+[![Email](https://img.shields.io/badge/Email-rithish21102006-0d1117?style=for-the-badge&logo=gmail&logoColor=5eead4)](mailto:rithish21102006@gmail.com)
+
+</div>
